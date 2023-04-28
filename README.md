@@ -17,5 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
--'git init'
-this is the initilazation of the git clone
+-`git init`
+This is the initilazation of the git clone
+-`git status`
+This one is to check status
