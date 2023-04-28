@@ -21,3 +21,4 @@ This is the initilazation of the git clone
 This one is to check status
 -`git push`
 This pushes the commits to the github / git hosting platform.
+
