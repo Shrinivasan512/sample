@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference. -->
 This is the initilazation of the git clone
 -`git status`
 This one is to check status
+-`git push`
+This pushes the commits to the github / git hosting platform.
+
